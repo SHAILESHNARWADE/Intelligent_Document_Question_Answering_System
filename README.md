@@ -76,7 +76,7 @@ Relevant Context Retrieval
 Prompt Engineering
     │
     ▼
-Local LLM (Phi-3 Mini)
+Local SLM (Phi-3 Mini)
     │
     ▼
 Generated Answer
@@ -96,7 +96,7 @@ Generated Answer
 | FAISS                 | Vector Database & Similarity Search |
 | Requests              | API Communication                   |
 | Ollama                | Local LLM Runtime                   |
-| Phi-3 Mini            | Large Language Model                |
+| Phi-3 Mini            | Small Language Model                |
 | RAG                   | Retrieval-Augmented Generation      |
 
 ---
