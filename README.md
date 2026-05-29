@@ -200,6 +200,11 @@ pip install huggingface-hub==0.25.2
 ```
 
 ---
+### Language Model
+Initially experimented with Llama3 for response generation.
+Migrated to Phi-3 Mini (SLM) due to its lower computational requirements and better performance on resource-constrained systems.
+
+ 
 
 ## Install Ollama
 
